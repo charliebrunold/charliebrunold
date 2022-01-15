@@ -1,5 +1,6 @@
-- Hi, I’m @charliebrunold
-- Junior year CS student, Polytechnic School, Pasadena
+- Hello there, I’m @charliebrunold
+- I'm a junior year high school student interested in computer science at Polytechnic School 
+- Director of technology at puriphico.com 
 
 
 <!---
