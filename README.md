@@ -1,8 +1,10 @@
 - Hello there, I’m @charliebrunold
 - I am:
-  - A senior year high school student interested in computer science at Polytechnic School 
-  - The director of technology at puriphico.com 
-  - Currently learning Java and SQL
+  - An AI for Business student at the University of Southern California 
+  - Former director of technology at puriphico.com 
+  - Proficient in Python
+  - Experience with Java and SQL
+  - Learning R and C++
 
 
 <!---
